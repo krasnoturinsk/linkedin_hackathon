@@ -6,4 +6,4 @@
 - [Техническое задание](https://disk.yandex.ru/i/v1DkojBTIBFN8A)
 - [Miro](https://miro.com/app/board/uXjVM8HRZOU=/)
 - [Notion](https://www.notion.so/Linkedin-f2e0a6168376473b8a71dfbd21629976?pvs=4)
-- [Mett](https://meet.google.com/xch-zodw-xaa)
+- [Meet](https://meet.google.com/xch-zodw-xaa)
