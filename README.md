@@ -6,7 +6,7 @@
 
 Стек: `jupyter-notebook`, `python`, `selenium`, `BeautifulSoup`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `nltk`, `pymorphy2`, `sklearn`
 
-Рассмотрим выполнение проекта подробнее в [jupyter notebook](https://github.com/krasnoturinsk/linkedin_hackathon/blob/main/src/linkedin_mentoring_k2.ipynb) или в [PDF](https://github.com/krasnoturinsk/linkedin_hackathon/blob/main/linkedin_mentoring_k2.pdf).
+Рассмотрим выполнение проекта подробнее в [jupyter notebook](https://github.com/krasnoturinsk/linkedin_hackathon/blob/main/src/linkedin_mentoring.ipynb) или в [PDF](https://github.com/krasnoturinsk/linkedin_hackathon/blob/main/linkedin_mentoring.pdf).
 
 ---
 
