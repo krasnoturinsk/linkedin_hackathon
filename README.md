@@ -56,7 +56,7 @@
 
 ### В номинации "The Best work. Data Science" наша команда заняла 1 место.
 
-<img src='ya_diplom_вы_ga_1st.png'>
+<img src='ya_diplom_ds_ga_1st.png'>
 
 ---
 
