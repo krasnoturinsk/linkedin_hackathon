@@ -60,6 +60,10 @@
 
 <img src='ya_diplom_ds_ga_1st.png'>
 
+
+[Видео Демо](https://www.youtube.com/watch?v=OW7VT7JqUfc) |  [Видео объявления 1 места в номинации PM](https://www.youtube.com/watch?v=DVwQpKVLsD8) | [Видео объявления 1 места в номинации DS](https://www.youtube.com/watch?v=3CMyaunKJbM)
+
+
 ---
 
 ### Команда 2
