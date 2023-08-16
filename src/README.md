@@ -5,7 +5,7 @@ Hackathon: 4-19 августа 2023, https://ai-hackathon.gigaschool.ru/
 ## Cоздание инновационных продуктов с помощью AI-технологий
 
 
-Стек: `jupyter-notebook`, `python`, `openai`, `tiktoken`, `pyTelegramBotAPI`,`ChatGPT`, `YandexGPT`, `Яндекс DataSphere`, `Яндекс SpeechKit`
+Стек: `jupyter-notebook`, `python`, `openai`, `tiktoken`, `pyTelegramBotAPI`,`ChatGPT-4`, `YandexGPT`, `Яндекс DataSphere`, `Яндекс SpeechKit`, `Яндекс Vision`
 
 ## Кейс: АШАН: использование искусственного интеллекта в работе контакт-центра
 
