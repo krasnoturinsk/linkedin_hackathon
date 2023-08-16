@@ -96,9 +96,8 @@ Hackathon: 4-19 августа 2023, https://ai-hackathon.gigaschool.ru/
      - многокональный телефон 8-800-700-5-800
 
 
-<img src="https://github.com/krasnoturinsk/linkedin_hackathon/blob/main/src/img/auchan_chat.png?raw=true" style='width:30%; float:left;' >
-<img src="img\auchan_telegram.png" style='width:30%;'>
-
+<img src="img/auchan_chat.png?raw=true" style='width:30%; float:left;' >
+<img src="img/auchan_telegram.png" style='width:30%;'>
 
 
 Все текстовые сервисы имеют четко заданную структуру и алгоритмы для сбора данных относительно выбранного вопроса и предполагают, что пользователь точно знает, чего хочет и как должен действовать. Но на практике такое бывает не всегда, и чаще всего человеку просто нужна консультация. В этом случае у сервисов имеется возможность переключения пользователя на общение с сотрудником магазина.
@@ -116,7 +115,7 @@ Hackathon: 4-19 августа 2023, https://ai-hackathon.gigaschool.ru/
 
 **Примерная схема реализации сервиса "Интеллектуального помощника Ашанчик"**
 
-<img src='img\bot_schema.png'>
+<img src='img/bot_schema.png'>
 
 **Основные проблемы**
 
@@ -148,7 +147,7 @@ Hackathon: 4-19 августа 2023, https://ai-hackathon.gigaschool.ru/
 
 Схема ниже демонстрирует принцип построения диалога и настроки модели налету с применением ChatML.
 
-<img src='img\chatml.png'>
+<img src='img/chatml.png'>
 
 Для распознавания голосовых сообщений от клиентов и перевода в текст мы использовали хорошо зарекомендовавшую себя технологию Яндек SpeechKit. Её же использовали для озвучивания текстов ответов генеративной сети.
 
